@@ -8,5 +8,5 @@ Se observa la proteína  con la subunidad catalitica en morado y la subunidad ac
 
 ![docking](https://user-images.githubusercontent.com/105822493/169171058-3e4acca3-bb99-4dd8-a7c0-6025ce124c8b.png)
 
-
+La figura  representa que existen  moléculas que se pueden acoplar  en el sitio activo de la proteína.
 
